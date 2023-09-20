@@ -1,0 +1,8 @@
+name: AmberPremier-Core
+version: '${project.version}'
+main: strokkur.amberpremiercore.AmberPremier_Core
+api-version: '1.20'
+prefix: Core
+load: STARTUP
+authors: [Strokkur24]
+description: Core Plugin for minecraft server "AmberPremier"
